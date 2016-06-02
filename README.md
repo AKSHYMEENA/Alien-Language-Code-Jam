@@ -17,5 +17,5 @@ Then the final count of the remaining words in the language is the number of pos
 To use the solution: run the python script from a terminal passing it the name of the input file followed by the desired name of the output file.   
 
 ```
-$ /User python alien.py C-small-practice.in small-output.out
+User$ python alien.py C-small-practice.in small-output.out
 ```
