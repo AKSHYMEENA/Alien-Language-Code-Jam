@@ -9,7 +9,7 @@ Once the dictionary of all the words in the alien language was built, the next b
 A pattern consists of exactly L tokens. Each token is either a single lowercase letter (the scientists are very sure that this is the letter) or a group of unique lowercase letters surrounded by parenthesis ( and ). For example: (ab)d(dc) means the first letter is either a or b, the second letter is definitely d and the last letter is either d or c. Therefore, the pattern (ab)d(dc) can stand for either one of these 4 possibilities: add, adc, bdd, bdc.
 
 ##Solution theory
-The script searches through the alien language (whilst comparing them to the message) and removes the words that are not possible translations from the search so as to eliminate redundant checking of words. 
+The script searches through the alien language whilst comparing them to the message and removes the words that are not possible translations from the search so as to eliminate redundant checking of words. 
 
 Then the final count of the remaining words in the language is the number of possible translations.
 
