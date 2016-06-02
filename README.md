@@ -1,4 +1,4 @@
-# Alien-Language-Code-Jam
+# Alien Language Code Jam
 Solution to the alien language puzzle from [google code jam qualification round 2009](https://code.google.com/codejam/contest/90101/dashboard)
 
 ##The problem
